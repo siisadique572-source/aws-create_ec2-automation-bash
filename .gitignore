@@ -7,3 +7,4 @@
 # Ignore AWS CLI zip and extracted folder (Script temporary files)
 awscliv2.zip
 aws/
+
