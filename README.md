@@ -21,7 +21,7 @@ Before executing the script, make sure you have:
 
 1.  Clone the repository:**
    ```bash
-   git clone [https://github.com/siisadique572-source/aws-create_ec2-automation-bash.git](https://github.com/siisadique572-source/aws-create_ec2-automation-bash.git)
+   git clone [https://github.com/S9si/aws-create_ec2-automation-bash.git](https://github.com/S9si/aws-create_ec2-automation-bash.git)
 
    cd aws-create_ec2-automation-bash
 
