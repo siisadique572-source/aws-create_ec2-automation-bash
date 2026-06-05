@@ -1,0 +1,9 @@
+# Ignore any log files generated during testing
+*.log
+
+# Ignore system specific files
+.DS_Store
+
+# Ignore AWS CLI zip and extracted folder (Script temporary files)
+awscliv2.zip
+aws/
